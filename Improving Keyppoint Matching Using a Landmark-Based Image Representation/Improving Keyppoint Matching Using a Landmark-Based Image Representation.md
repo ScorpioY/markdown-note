@@ -61,10 +61,10 @@ $$
 
 * 使用数据集：UACampus，Mapillary
 * 回环检测算法：CNN-based，GIST-based
-* 实验设置：![image-20200315141839598](D:\00-code\markdown-note\Improving Keyppoint Matching Using a Landmark-Based Image Representation\image-20200315141839598.png)
-* 结果：![image-20200315142132533](D:\00-code\markdown-note\Improving Keyppoint Matching Using a Landmark-Based Image Representation\image-20200315142132533.png)
+* 实验设置：![image-20200315141839598](image-20200315141839598.png)
+* 结果：![image-20200315142132533](image-20200315142132533.png)
 
-![image-20200315142615444](D:\00-code\markdown-note\Improving Keyppoint Matching Using a Landmark-Based Image Representation\image-20200315142615444.png)
+![image-20200315142615444](image-20200315142615444.png)
 
 可明显看出LM-系列算法鲁棒性更强
 
